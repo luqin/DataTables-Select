@@ -1,0 +1,9 @@
+node_modules/
+docs/
+examples/
+.gitignore
+.bower.json
+*.iml
+.idea
+make.sh
+Contributing.md

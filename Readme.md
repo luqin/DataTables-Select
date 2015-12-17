@@ -1,5 +1,10 @@
 # Select
 
+[![NPM version][npm-badge]][npm]
+
+[npm-badge]: http://badge.fury.io/js/datatables-select.svg
+[npm]: https://www.npmjs.com/package/datatables-select
+
 Select adds item selection capabilities to a DataTable. Items can be rows, columns or cells, which can be selected independently, or together. Item selection can be particularly useful in interactive tables where users can perform some action on the table such as editing.
 
 

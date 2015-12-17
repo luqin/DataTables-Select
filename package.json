@@ -1,0 +1,9 @@
+{
+  "name": "datatables-select",
+  "version": "1.0.1",
+  "main": "dist/js/dataTables.select.js",
+  "dependencies": {
+    "jquery": ">=1.7.0",
+    "datatables": ">=1.10.8"
+  }
+}
