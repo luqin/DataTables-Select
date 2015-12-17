@@ -5,5 +5,6 @@ examples/
 .bower.json
 *.iml
 .idea
+.git
 make.sh
 Contributing.md
