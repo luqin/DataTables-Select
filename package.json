@@ -1,19 +1,9 @@
 {
   "name": "datatables-select",
-  "version": "1.0.2",
-  "main": "dist/js/dataTables.select.js",
-  "scripts": {
-    "build-dist": "",
-    "test": ""
-  },
+  "version": "1.1.0",
+  "main": "js/dataTables.select.js",
   "dependencies": {
     "jquery": ">=1.7.0",
     "datatables": ">=1.10.8"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-sass": "^2.1.1",
-    "gulp-size": "^2.0.0",
-    "node-sass": "3.4.2"
   }
 }
